@@ -1,5 +1,5 @@
-FROM centos:latest
-MAINTAINER Support <support@atomicorp.com>
+FROM centos:centos7
+MAINTAINER Support <salvador.priego@castlabs.com>
 
 #VOLUME ["/var/lib/openvas"]
 
